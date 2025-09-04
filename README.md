@@ -1,2 +1,2 @@
-# book-journalism
-Summary book of journalism in 2025. It's gotten so bad since Reagan. Almost evil. Almost.
+# 1st-book-template
+Template for book-type website. Easier to read and absorb.
